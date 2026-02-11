@@ -58,5 +58,28 @@
 
 ---
 
+## TC-004 - Verify access to Facebook page without being logged in
+
+**Preconditions**
+- User is on the Lecturalia.com homepage.
+- Internet connection is available.
+
+**Steps**
+1. Select the Facebook icon.
+2. Verify that the Facebook profile page is opened.
+
+**Expected results**
+- The user is redirected to the official Facebook page.
+- The Facebook page loads successfully.
+- The user can view public content without logging in.
+
+---
+
+
+
+
+
+
+
 
 
