@@ -77,3 +77,32 @@ Medium
 
 ---
 
+## Bug ID
+BR-003
+
+## Title
+Large empty white space displayed at the top of the category page
+
+## Environment
+- Website: Lecturalia.com
+- Browser: Chrome
+- OS: Windows 10
+- Resolution: Desktop view
+
+## Preconditions
+- User is on the Lecturalia.com website.
+- Internet connection is available.
+
+## Steps to Reproduce
+1. Navigate to a category page (e.g., "Tema: Cómics").
+2. Observe the layout at the top of the page.
+
+## Actual Result
+- A large empty white space is displayed at the top of the page before the main content.
+- The space does not contain any visible content or functional elements.
+
+## Expected Result
+- The page should display content immediately bel
+
+  
+
