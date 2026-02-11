@@ -1,15 +1,15 @@
 # Test Plan – lecturalia.com
 
 ## Objective
-Test the main functionalities of the Lecturalia web application related to book information, news, search, and navigation features.
+- To validate the main functionalities of the Lecturalia web application, focusing on book information, search features, user access, and general navigation.
 
 ## Scope
-- User registration
+- User registration (if available)
 - User login
 - Navigation through book listings
-- Search for books and news
+- Book and news search functionality
 - Use of filters
-- Localization (language and currency display, if applicable)
+- Language localization (if applicable)
 
 ## Out of Scope
 - Payment processing
@@ -29,5 +29,6 @@ Test the main functionalities of the Lecturalia web application related to book 
 - Stable internet connection
 
 ## Exit Criteria
-- Test cases executed
-- Bugs reported and documented
+- All planned test cases executed
+- Identified defects documented
+- No critical or high-severity defects left unresolved
